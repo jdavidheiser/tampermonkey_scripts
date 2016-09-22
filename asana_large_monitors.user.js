@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Asana for large monitors
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/jdavidheiser/tampermonkey_scripts/
 // @version      0.1
 // @description  maximize screen real estate when using Asana.
 // @author       JD
