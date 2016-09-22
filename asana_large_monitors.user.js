@@ -20,5 +20,5 @@
         style.innerHTML = css;
         head.appendChild(style);
     }
-    addGlobalStyle('#right_pane_container { max-width: 1500px !important; width: 95% !important; }');
+    addGlobalStyle('#right_pane_container { max-width: 2500px !important; width: 95% !important; }');
 })();
